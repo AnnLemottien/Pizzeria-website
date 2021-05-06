@@ -14,7 +14,7 @@ This Pizzeria website was created while improving my practical skills in front-e
 https://annlemottien.github.io/Pizzeria-website/
 
 ## Screenshots
-![screenshot](screenshot.jpg)
+![screenshot](./imgs/screenshot.jpg)
 
 ## Technologies
 Project is created with:
